@@ -13,8 +13,8 @@ export default class App extends Component {
         super(props);
         this.state = {
             data: [
-                {label: 'Going to learn React', important: false, like: false, id: 1},
-                {label: 'That is so good', important: false, like: false, id: 2},
+                {label: 'Learn Django', important: false, like: false, id: 1},
+                {label: 'Learn Docker', important: false, like: false, id: 2},
                 {label: 'I need a break...', important: false, like: false, id: 3}
             ],
             term: '',

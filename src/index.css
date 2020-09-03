@@ -6,7 +6,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #eaf5fc;
+  background: url("img/leone-venter-VieM9BdZKFo-unsplash.jpg") center center no-repeat;
+  background-size: cover;
+  height: 1000px;
 }
 
 code {
