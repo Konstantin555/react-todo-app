@@ -11,3 +11,5 @@ npm install
 
 
 npm start
+
+The app is available at http://http://167.71.46.70/
